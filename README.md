@@ -11,6 +11,11 @@ The **WealthFlow** application is a financial management web app built using HTM
 - **Frontend Repository**: [WealthFlow Frontend GitHub Repo](https://github.com/yashpatel458/WealthFlow-Frontend)
 - **Hosted Application**: [WealthFlow Application](https://yashpatel458.github.io/WealthFlow-Frontend/login.html)
 
+- Credentials:
+admin
+password123
+
+
 ### **Frontend Features**
 1. Login page for user authentication.
 2. Dashboard displaying financial metrics and charts.
