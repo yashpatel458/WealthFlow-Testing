@@ -1,5 +1,11 @@
 # WealthFlow Test Automation Project
 
+
+
+https://github.com/user-attachments/assets/4bd816f0-8ca8-4d94-9b8b-1d171a0af2c9
+
+
+
 This repository contains the automated test scripts and configurations for the **WealthFlow** application, a web-based frontend hosted on [GitHub Pages](https://yashpatel458.github.io/WealthFlow-Frontend/login.html). The project uses **Selenium** for UI automation, integrates with **Cucumber** for Behavior-Driven Development (BDD), and leverages **JUnit** and **Maven** for test execution and dependency management. Future enhancements include **JMeter** for performance testing and **Jenkins** for CI/CD.
 
 ---
